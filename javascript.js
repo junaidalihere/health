@@ -40,7 +40,7 @@ gsap.from("h1 span",{
 
 
 gsap.to(".page3 h1",{
-    transform: "translate(-252%)",
+    transform: "translate(-175%)",
     scrollTrigger:{
         trigger: ".page3",
         scroller: "body",
